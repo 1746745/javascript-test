@@ -1,5 +1,7 @@
 const myapp = {};
 
+$("#meisai7\\.select").data("object").RecordNo
+
 (function() {
   $(document).ready(function() {
     $('.myapp-b-select').on('change', function() {
